@@ -1,0 +1,23 @@
+/* * * * * * * * * *
+Theme Name: BootMeta
+Theme URI: 
+Author: Aamir Hussain
+Author URI: 
+Description: WPLite 2024
+Text Domain: bm
+Version: 1
+Version Date: 23 Aug, 2024
+* * * * * * * * * */
+
+.logo {
+    max-height: 90px;
+}
+
+.meta-info label {
+    display: none;
+}
+
+.wpl-social-links ul li {
+    float: left;
+    margin: 0 5px;
+}
